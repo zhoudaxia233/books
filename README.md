@@ -37,7 +37,12 @@ Stay tuned!
 16. 《涅托奇卡·涅兹万诺娃》作者：陀思妥耶夫斯基  
 *"Netochka Nezvanova"* by *Fyodor Dostoevsky*
 17. 《活法》作者：稻盛和夫
-
+18. 《三体》作者：刘慈欣  
+*"The Three-Body Problem"* by *Liu Cixin*
+19. 《当我谈跑步时我谈些什么》作者：村上春树  
+*"What I Talk About When I Talk About Running"* by *Haruki Murakami*
+20. 《爱你就像爱生命》作者：王小波
+21. 《梦里花落知多少》作者：三毛
 
 ---
 **Philosophy** (哲学类):  
