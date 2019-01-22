@@ -43,8 +43,12 @@ Stay tuned!
 *"What I Talk About When I Talk About Running"* by *Haruki Murakami*
 20. 《爱你就像爱生命》作者：王小波
 21. 《梦里花落知多少》作者：三毛
+22. 《叔本华的治疗》作者：欧文·亚隆  
+*"the schopenhauer cure"* by *irvin d. yalom*
 
 ---
 **Philosophy** (哲学类):  
 1. 《西西弗斯神话》作者：阿贝尔·加缪 译者：郭宏安  
 *"The Myth of Sisyphus"* by *Albert Camus*
+2. 《人生的智慧》作者：阿图尔·叔本华  
+*"The Wisdom of Life"* by *Arthur Schopenhauer*
