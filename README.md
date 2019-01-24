@@ -28,7 +28,7 @@ Stay tuned!
 *"Silent Majority"* by *Wang Xiaobo*
 12. 《白夜行》作者：东野圭吾  
 *"Journey Under the Midnight Sun"* by *Keigo Higashino*
-13. 《局外人》作者：阿贝尔·加缪  
+13. 《局外人》作者：阿尔贝·加缪  
 *"The Stranger"* by *Albert Camus*
 14. 《黑客与画家》作者：保罗•格雷厄姆  
 *"Hackers & Painters"* by *Paul Graham*
@@ -48,7 +48,7 @@ Stay tuned!
 
 ---
 **Philosophy** (哲学类):  
-1. 《西西弗斯神话》作者：阿贝尔·加缪 译者：郭宏安  
+1. 《西西弗斯神话》作者：阿尔贝·加缪 译者：郭宏安  
 *"The Myth of Sisyphus"* by *Albert Camus*
 2. 《人生的智慧》作者：阿图尔·叔本华  
 *"The Wisdom of Life"* by *Arthur Schopenhauer*
