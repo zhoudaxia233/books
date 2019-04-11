@@ -45,6 +45,8 @@ Stay tuned!
 21. 《梦里花落知多少》作者：三毛
 22. 《叔本华的治疗》作者：欧文·亚隆  
 *"the schopenhauer cure"* by *irvin d. yalom*
+23. 《月亮和六便士》作者：毛姆  
+*"The Moon and Sixpence"* by *William Somerset Maugham*
 
 ---
 **Philosophy** (哲学类):  
