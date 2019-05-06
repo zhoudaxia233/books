@@ -45,6 +45,8 @@ Stay tuned!
 21. 《梦里花落知多少》作者：三毛
 22. 《叔本华的治疗》作者：欧文·亚隆  
 *"the schopenhauer cure"* by *irvin d. yalom*
+23. 《围城》作者：钱锺书  
+*"Fortress Besieged"* by *Qian Zhongshu*
 
 ---
 **Philosophy** (哲学类):  
