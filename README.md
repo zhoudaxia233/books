@@ -47,6 +47,8 @@ Stay tuned!
 *"the schopenhauer cure"* by *irvin d. yalom*
 23. 《围城》作者：钱锺书  
 *"Fortress Besieged"* by *Qian Zhongshu*
+24. 《月亮和六便士》作者：毛姆  
+*"The Moon and Sixpence"* by *William Somerset Maugham*
 
 ---
 **Philosophy** (哲学类):  
